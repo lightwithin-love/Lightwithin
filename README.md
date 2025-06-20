@@ -1,7 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta name="google-site-verification" content="4cLdWqFIePn_hPLiRCVkTDHAATs0C3lqsTA5FE8sSUg" />
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <meta name="robots" content="index, follow" />
@@ -77,6 +76,7 @@
     }
   </style>
 </head>
+<meta name="google-site-verification" content="4cLdWqFIePn_hPLiRCVkTDHAATs0C3lqsTA5FE8sSUg" />
 <body>
 
   <header>
